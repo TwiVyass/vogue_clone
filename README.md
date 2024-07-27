@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is my attenmpt to make a clone of the original Vogue website. It's only a structure and a work in progress.
 
 A few resources to get you started if this is your first Flutter project:
 
