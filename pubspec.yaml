@@ -1,0 +1,33 @@
+name: vogue_clone
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  font_awesome_flutter: ^10.0.0
+  google_fonts: ^4.0.0
+  share: ^2.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/article_image.jpg
+    - assets/featured_image.jpg
+
+  fonts:
+    - family: Vogue
+      fonts:
+        - asset: assets/fonts/Vogue.ttf
